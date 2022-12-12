@@ -1,0 +1,57 @@
+.registerBox {
+    width: 450px;
+    position: absolute;
+    left: 50%;
+    margin-top: 100px;
+    transform: translate(-50%);
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0 #dadada;
+}
+.title {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-size: 22px;
+    color: #086F83;
+    }
+    .account, .password{
+        font-size: 16px;
+        margin-left: 20px;
+        height: 40px;
+        width: 400px;
+        margin-bottom: 20px;
+    } 
+    .captchaBox{
+        margin-left: 35px;
+        display: flex;
+        justify-content: space-between;
+        height: 40px;
+        width: 400px;
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .captchaBoxInput{
+        height: 40px;
+        width: 200px;
+    }
+      .returnButton{
+        margin-bottom: 20px;
+        margin-left: 20px;
+        width: 400px;
+        height: 40px;
+        text-align: center;
+        color:#086F83 ;
+        background-color: #fff;
+        font-size: 22px;
+      }
+      .flishRegister{
+        margin-bottom: 20px;
+        margin-left: 20px;
+        width: 400px;
+        height: 40px;
+        text-align: center;
+        color:#d8dfe0 ;
+        background-color: rgb(43, 107, 204);
+        font-size: 22px;
+      }
+    

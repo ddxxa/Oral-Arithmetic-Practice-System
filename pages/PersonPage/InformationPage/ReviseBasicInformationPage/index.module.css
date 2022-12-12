@@ -1,0 +1,15 @@
+.box{
+    /* background-color: red; */
+    position: relative;
+    margin-top: 80px;
+    width: 900px;
+    margin-right: 100px;
+}
+.form {
+    position: absolute;
+    /* width: 100px; */
+    /* height: 50px; */
+    /* left: 50%; */
+    transform: translate(-50%);
+    margin-right: 50px;
+}

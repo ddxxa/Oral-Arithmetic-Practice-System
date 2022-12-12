@@ -1,0 +1,104 @@
+.box{
+    /* position: relative; */
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top:40px ;
+}
+.h4 {
+    font-size: 20px;
+    display:inline-block;font-weight:bold;color:#def;text-shadow:0 0 1px currentColor,-1px -1px 1px #000,0 -1px 1px #000,1px -1px 1px #000,1px 0 1px #000,1px 1px 1px #000,0 1px 1px #000,-1px 1px 1px #000,-1px 0 1px #000;-webkit-filter:url(#diff1);filter:url(#diff1);
+}
+.level{
+    display: flex;
+}
+.addbtn{
+    height: 250px;
+    width: 150px;
+    position: relative;
+}
+.confBtn{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: 10px;
+}
+.btn{
+    position: absolute;
+    /* left: 80px; */
+    top:15px;
+    left: 60px;
+}
+.table {
+    padding: auto;
+    position: absolute;
+    top: 40px;
+    left: 30px;
+    height: calc(100% - 60px );
+    width: calc(100% - 60px);
+}
+/* .limitedTimeBox{
+    position:absolute;
+    height: 400px;
+    width: 300px;
+    left: 300px;
+    top: 100px;
+    border-radius: 5px;
+    background-color: rgb(23, 197, 61);
+    box-shadow: 0 0 5px 0 #dadada;
+}
+.difficultyBox{
+    position: absolute;
+    top: 100px;
+    right: 300px;
+    height: 400px;
+    width: 300px;
+    border-radius: 5px;
+    background-color: rgb(216, 178, 53);
+    box-shadow: 0 0 5px 0 #dadada;
+} */
+/* .title{
+    position: absolute; */
+    /* top:20px; */
+    /* font-size: 40px;
+    display:inline-block;font-weight:bold;color:#def;text-shadow:0 0 1px currentColor,-1px -1px 1px #000,0 -1px 1px #000,1px -1px 1px #000,1px 0 1px #000,1px 1px 1px #000,0 1px 1px #000,-1px 1px 1px #000,-1px 0 1px #000;-webkit-filter:url(#diff1);filter:url(#diff1);
+    left: 50%;
+    transform: translate(-50%);
+    width: 300px;
+    
+}
+.title1{
+    font-size: 30px; */
+/* background: rgb(206, 176, 176) url(data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAHklEQVQImWNkYGBgYGD4//8/A5wF5SBYyAr+//8PAPOCFO0Q2zq7AAAAAElFTkSuQmCC) repeat;text-shadow: 5px -5px black, 4px -4px white;font-weight: bold;-webkit-text-fill-color: transparent;-webkit-background-clip: text */
+/* display:inline-block;font-weight:bold;color:#def;text-shadow:0 0 1px currentColor,-1px -1px 1px #000,0 -1px 1px #000,1px -1px 1px #000,1px 0 1px #000,1px 1px 1px #000,0 1px 1px #000,-1px 1px 1px #000,-1px 0 1px #000;-webkit-filter:url(#diff1);filter:url(#diff1);/*background:#def;padding:0 .2em*/
+
+/* }
+.content {
+    text-indent: 1rem;
+    text-align: justify;
+    font-size: 18px;
+    color: #def;
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+} */ 
+/* .inputBox{
+    width: 100%;
+    margin-left: 20px;
+    display: flex;
+    position: relative;
+    margin-top: 100px;
+}
+.span{
+    font-size: 21px;
+}
+.button{
+    position: relative;
+    margin-top: 40px;
+}
+.dropDown{
+    width: 100%;
+    margin-left: 20px;
+    display: flex;
+    position: relative;
+    margin-top: 100px; 
+} */

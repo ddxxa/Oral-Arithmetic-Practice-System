@@ -1,0 +1,7 @@
+.box {
+    padding: 0 40px 0 40px;
+}
+.h4 {
+    font-size: 20px;
+    display:inline-block;font-weight:bold;color:#def;text-shadow:0 0 1px currentColor,-1px -1px 1px #000,0 -1px 1px #000,1px -1px 1px #000,1px 0 1px #000,1px 1px 1px #000,0 1px 1px #000,-1px 1px 1px #000,-1px 0 1px #000;-webkit-filter:url(#diff1);filter:url(#diff1);
+}

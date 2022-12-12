@@ -1,0 +1,30 @@
+.top{
+    display: flex;
+    margin: auto;
+    padding: 0%;
+    height: 60px;
+    text-align: center;
+    display: flex;
+    margin-bottom: 20px;
+    
+}
+.title{
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 18px;
+    color: #0078d4;
+}
+.content {
+    /* height: 1000px;
+    margin:20px 20px 0px 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0 #dadada; */
+    position: absolute;
+    top: 80px;
+    left: 40px;
+    right: 40px;
+    bottom: 20px;
+    box-shadow: 0 0 5px 0 #dadada;
+    height: 750px;
+}
